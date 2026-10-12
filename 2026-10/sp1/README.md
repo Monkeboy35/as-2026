@@ -5,3 +5,7 @@ Na konci někdy není napsané ano/ne
 začátky slov jsou s velkými a malými písmeny
 
 dny jsou někdy ve zkratce a někdy napsané celé
+
+prihlasky.csv = prihlasky
+krouzky.csv = krouzky
+zaci.csv = zaci
